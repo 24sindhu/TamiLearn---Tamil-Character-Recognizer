@@ -19,7 +19,7 @@ This project focuses on building an image classification system capable of recog
 
 ## 📁 Dataset
 
-* **Source**: [HPL Tamil Offline Character Dataset](http://shiftleft.com/mirrors/www.hpl.hp.com/india/research/penhw-resources/hpl-tamil-iso-char-offline-1.0.tar.gz)
+* **Source**: [HPL Tamil Offline Character Dataset](https://lipitk.sourceforge.net/datasets/tamilchardata.htm)
 * **Classes**: 156 distinct Tamil characters
 * **Format**: TIFF grayscale images organized in folders per character class
 
